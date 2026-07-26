@@ -1,9 +1,7 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h> 
 using namespace std;
-
+//functions
 int main() {
-    long long a, b;
-    cin >> a >> b;
-    cout << a + b << endl;
+    
     return 0;
 }
